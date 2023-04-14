@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Olá mundo em JavaScript</title>
+  </head>
+  <body>
+    <script>
+      alert("Olá mundo!");
+    </script>
+  </body>
+</html>
